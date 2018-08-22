@@ -1,0 +1,11 @@
+baseURL = "http://agusti.netlify.com"
+languageCode = "en-us"
+title = "Coding nonsense"
+theme = "hello-friend"
+
+paginate = 5
+
+[params]
+  subtitle = "A blog to collect my stuff"
+
+
