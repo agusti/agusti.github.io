@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Welcome!"
-date:   2018-07-11 15:33:41 +0300
-categories: general
----
-Welcome to my blog!
